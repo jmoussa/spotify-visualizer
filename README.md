@@ -22,3 +22,7 @@ Copy config.template.py to config.py and enter your spotify developer credential
 ```Shell
 >> python data.py
 ```
+
+## Spotify's Documentation
+To get more details on what the Y axis means on some of the graphs
+look [here](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/) at Spotify's developer documentation.
