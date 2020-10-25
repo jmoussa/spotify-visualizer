@@ -1,4 +1,4 @@
-# Backend API for VIER
+# Spotify Visualizations
 
 ## Requirements
 - [Anaconda](https://docs.anaconda.com/anaconda/install/) (this project uses `conda` commands for maintaining viritual environments)
