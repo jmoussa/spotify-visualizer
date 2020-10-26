@@ -56,5 +56,3 @@ dependencies:
     - scipy==1.4.1
     - spotipy==2.12.0
     - threadpoolctl==2.0.0
-prefix: /Users/jmoussa/anaconda3/envs/spotify
-
