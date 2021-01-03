@@ -1,5 +1,7 @@
 # Spotify Visualizations
 
+Currently just shows bar graphs depicting key musical metrics across the top albums.
+
 ## Requirements
 - [Anaconda](https://docs.anaconda.com/anaconda/install/) (this project uses `conda` commands for maintaining viritual environments)
 - python 3.6+
